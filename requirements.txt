@@ -1,0 +1,10 @@
+anthropic==0.25.0
+langgraph==0.1.19
+langchain==0.1.20
+langchain-anthropic==0.1.11
+PyGithub==2.3.0
+semgrep==1.70.0
+ruff==0.4.4
+python-dotenv==1.0.1
+pydantic==2.7.1
+requests==2.31.0
